@@ -2,7 +2,6 @@
 逐步深入了解Java Remote Method Invocation  
 
 ### tutorial
-URL:  
 Simple : http://www.javacamp.org/moreclasses/rmi/rmi6.html  
 Ordinary : http://www.javacamp.org/moreclasses/rmi/rmi22.html  
 <br>
